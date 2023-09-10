@@ -1,0 +1,5 @@
+outs:
+- md5: 8a65430588d85db55eb705a1456c1b5b
+  size: 79037431
+  hash: md5
+  path: Building_Permits.csv

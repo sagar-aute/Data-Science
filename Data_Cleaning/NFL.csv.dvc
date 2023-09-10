@@ -1,0 +1,5 @@
+outs:
+- md5: fb329612deffe8fe67903cc725d67882
+  size: 275530460
+  hash: md5
+  path: NFL.csv
